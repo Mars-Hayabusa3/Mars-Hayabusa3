@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mars
-- 🌱 I’m currently learning JavaScript and enhancing CSS skills
+- 🌱 JavaScript (React)
 - I speak Taiwanese, Taiwanese Mandarin, English, 日本語 et un peu français
 
 <!---
