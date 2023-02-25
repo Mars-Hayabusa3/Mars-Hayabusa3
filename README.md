@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mars
-- 🌱 JavaScript (React)
+- 🌱 I write code with JavaScript (React, basic Node.js, Prototype)
 - I speak Taiwanese, Taiwanese Mandarin, English, 日本語 et un peu français
 
 <!---
